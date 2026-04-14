@@ -14,6 +14,8 @@ This project shows how to change the MAC address using kali linux
 4. macchanger -r eth0
 5. ifconffig eth0 up
 6. ifconfig
+   <img width="1819" height="808" alt="image" src="https://github.com/user-attachments/assets/1d9dc463-3619-4ed5-835b-a05afe08652d" />
+
 
 ## Restore MAC
 1. ifconfig eth0 down
@@ -22,11 +24,6 @@ This project shows how to change the MAC address using kali linux
 
 ## Result 
 MAC address changed successfully and restored again
-
-## Screnshts
-
-### Before.png
-<img width="1920" height="901" alt="Screenshot_2026-03-31_08-41-23" src="https://github.com/user-attachments/assets/8be83106-8d64-49c8-ad0d-12db6ee9efb6" />
 
 ### after.png
 <img width="1920" height="902" alt="Screenshot_2026-04-13_21-42-59" src="https://github.com/user-attachments/assets/e7edff9a-7bb3-4909-a1ea-f8ef5badec6b" />
